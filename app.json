@@ -1,0 +1,14 @@
+{
+    "name": "heroku",
+    "description": "deploy  to heroku",
+    "keywords": [""],
+    "env": {
+        "UUID": {
+            "description": "ID and PASSWORD",
+            "value": "5fcce5d9-b10e-4439-9679-18ac4596f1b0"        
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
